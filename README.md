@@ -1,2 +1,2 @@
-# React_State-in-React-Declarative-vs.-Imperative-Programming
+# React_Conditional-Rendering-with-the-Ternary-Operator---AND-Operator
 Created with CodeSandbox
